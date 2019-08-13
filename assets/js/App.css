@@ -1,8 +1,11 @@
 .App {
-    width: 100px;
-    height: 100px;
-    font-size: 20px;
-    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    font-size: 16px;
+    background-color: #ffffff;
 }
 
 .CursorPointer {

@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-	Yo!
+	<p className="CursorPointer">Yo!</p>
       </div>
     );
   }
